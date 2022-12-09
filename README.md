@@ -16,11 +16,11 @@ rustlings のコメントとヒントを翻訳していこうと思ってます�
 | variables4       | exercises/variables/variables4.rs              | Done     |
 | variables5       | exercises/variables/variables5.rs              | Done     |
 | variables6       | exercises/variables/variables6.rs              | Done     |
-| functions1       | exercises/functions/functions1.rs              | Waiting  |
-| functions2       | exercises/functions/functions2.rs              | Waiting  |
-| functions3       | exercises/functions/functions3.rs              | Waiting  |
-| functions4       | exercises/functions/functions4.rs              | Waiting  |
-| functions5       | exercises/functions/functions5.rs              | Waiting  |
+| functions1       | exercises/functions/functions1.rs              | Done     |
+| functions2       | exercises/functions/functions2.rs              | Done     |
+| functions3       | exercises/functions/functions3.rs              | Done     |
+| functions4       | exercises/functions/functions4.rs              | Done     |
+| functions5       | exercises/functions/functions5.rs              | WIP      |
 | if1              | exercises/if/if1.rs                            | Waiting  |
 | if2              | exercises/if/if2.rs                            | Waiting  |
 | quiz1            | exercises/quiz1.rs                             | Waiting  |
