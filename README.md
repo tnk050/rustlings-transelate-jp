@@ -32,7 +32,7 @@ rustlings のコメントとヒントを翻訳していこうと思ってます�
 | primitive_types6 | exercises/primitive_types/primitive_types6.rs  | Done     |
 | vecs1            | exercises/vecs/vecs1.rs                        | Done     |
 | vecs2            | exercises/vecs/vecs2.rs                        | Done     |
-| move_semantics1  | exercises/move_semantics/move_semantics1.rs    | Waiting  |
+| move_semantics1  | exercises/move_semantics/move_semantics1.rs    | Done     |
 | move_semantics2  | exercises/move_semantics/move_semantics2.rs    | Waiting  |
 | move_semantics3  | exercises/move_semantics/move_semantics3.rs    | Waiting  |
 | move_semantics4  | exercises/move_semantics/move_semantics4.rs    | Waiting  |
