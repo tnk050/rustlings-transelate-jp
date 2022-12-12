@@ -20,10 +20,10 @@ rustlings のコメントとヒントを翻訳していこうと思ってます�
 | functions2       | exercises/functions/functions2.rs              | Done     |
 | functions3       | exercises/functions/functions3.rs              | Done     |
 | functions4       | exercises/functions/functions4.rs              | Done     |
-| functions5       | exercises/functions/functions5.rs              | WIP      |
-| if1              | exercises/if/if1.rs                            | Waiting  |
-| if2              | exercises/if/if2.rs                            | Waiting  |
-| quiz1            | exercises/quiz1.rs                             | Waiting  |
+| functions5       | exercises/functions/functions5.rs              | Done     |
+| if1              | exercises/if/if1.rs                            | Done     |
+| if2              | exercises/if/if2.rs                            | Done     |
+| quiz1            | exercises/quiz1.rs                             | Done     |
 | primitive_types1 | exercises/primitive_types/primitive_types1.rs  | Waiting  |
 | primitive_types2 | exercises/primitive_types/primitive_types2.rs  | Waiting  |
 | primitive_types3 | exercises/primitive_types/primitive_types3.rs  | Waiting  |
