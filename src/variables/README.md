@@ -8,7 +8,7 @@ Rust では変数はデフォルトで不変になっています。
 
 ## 詳細
 
-- [Variables and Mutability](https://doc.rust-jp.rs/book-ja/ch03-01-variables-and-mutability.html)
+- [変数と可変性](https://doc.rust-jp.rs/book-ja/ch03-01-variables-and-mutability.html)
 
 <!---
 # Variables
