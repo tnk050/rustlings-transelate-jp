@@ -4,6 +4,8 @@
 
 // `rustlings hint intro2` コマンド、もしくは `rustlings watch` 中に `hint` コマンドを実行することによってヒントを表示することができます。
 
+// I AM NOT DONE
+
 ```rust
 fn main() {
     println!("こんにちは {}!");
