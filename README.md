@@ -33,9 +33,9 @@ rustlings のコメントとヒントを翻訳していこうと思ってます�
 | vecs1            | exercises/vecs/vecs1.rs                        | Done     |
 | vecs2            | exercises/vecs/vecs2.rs                        | Done     |
 | move_semantics1  | exercises/move_semantics/move_semantics1.rs    | Done     |
-| move_semantics2  | exercises/move_semantics/move_semantics2.rs    | Waiting  |
-| move_semantics3  | exercises/move_semantics/move_semantics3.rs    | Waiting  |
-| move_semantics4  | exercises/move_semantics/move_semantics4.rs    | Waiting  |
+| move_semantics2  | exercises/move_semantics/move_semantics2.rs    | Done     |
+| move_semantics3  | exercises/move_semantics/move_semantics3.rs    | Done     |
+| move_semantics4  | exercises/move_semantics/move_semantics4.rs    | Done     |
 | move_semantics5  | exercises/move_semantics/move_semantics5.rs    | Waiting  |
 | move_semantics6  | exercises/move_semantics/move_semantics6.rs    | Waiting  |
 | structs1         | exercises/structs/structs1.rs                  | Waiting  |
