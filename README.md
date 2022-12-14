@@ -38,9 +38,9 @@ rustlings のコメントとヒントを翻訳していこうと思ってます�
 | move_semantics4  | exercises/move_semantics/move_semantics4.rs    | Done     |
 | move_semantics5  | exercises/move_semantics/move_semantics5.rs    | Done     |
 | move_semantics6  | exercises/move_semantics/move_semantics6.rs    | Done     |
-| structs1         | exercises/structs/structs1.rs                  | Waiting  |
-| structs2         | exercises/structs/structs2.rs                  | Waiting  |
-| structs3         | exercises/structs/structs3.rs                  | Waiting  |
+| structs1         | exercises/structs/structs1.rs                  | Done     |
+| structs2         | exercises/structs/structs2.rs                  | Done     |
+| structs3         | exercises/structs/structs3.rs                  | Done     |
 | enums1           | exercises/enums/enums1.rs                      | Waiting  |
 | enums2           | exercises/enums/enums2.rs                      | Waiting  |
 | enums3           | exercises/enums/enums3.rs                      | Waiting  |
